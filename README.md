@@ -4,8 +4,8 @@
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
 <h1>About Me</h1>
 
-
-+ I am a third year Student at MET BKC institute of Engineering Nashik. 🏫
+<!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
++ I am a third year Student at MET institute of Engineering Nashik. 🏫
 + I have goo Knowledge in AWS.
 + I do Competitive Programming as a regular practice. 💻
 
@@ -54,11 +54,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1472abhi&amp&theme=jolly&title_color=blue" style="max-width:100%;">
 <br>
   
-<img src="https://github-readme-stats.vercel.app/api?username=1472abhi&theme=jolly" style="max-width:100%;">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1472abhi&layout=compact&theme=jolly" style="max-width:100%;">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=1472abhi&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
   
   ![Snake animation](https://github.com/1472abhi/1472abhi/blob/output/github-contribution-grid-snake.svg)
   

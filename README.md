@@ -21,9 +21,9 @@
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
- <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
+ 
   
 </p>
 

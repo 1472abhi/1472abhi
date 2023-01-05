@@ -16,12 +16,14 @@
 
 <p align="center"> 
   
- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
- <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
 
-  <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
   
 </p>
 

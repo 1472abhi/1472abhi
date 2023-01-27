@@ -6,7 +6,7 @@
 
 <!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
 + I am a third year Student at MET institute of Engineering Nashik. 🏫
-+ I have good Knowledge in Flutter.
++ I have good Knowledge in Android Studio.
 + I do Competitive Programming as a regular practice. 💻
 
 

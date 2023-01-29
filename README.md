@@ -1,10 +1,11 @@
+<img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=1472abhi&style=flat-square&color=d43182"/></a>
+
 <h1 align="center">Hi there, I'm Abhishek Mahale<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1 align="center">I am a Competitive Programmer, Web Developer</h1>
 <br>
-<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
+<img align="right" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="250">
 <h1>About Me</h1>
 
-<!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
 + I am a third year Student at MET institute of Engineering Nashik. 🏫
 + I have good Knowledge in Web Develop.
 + I do Competitive Programming as a regular practice. 💻
@@ -58,8 +59,6 @@
   
 
   
-  ![Snake animation](https://github.com/1472abhi/1472abhi/blob/output/github-contribution-grid-snake.svg)
   
- <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=1472abhi&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/1472abhi">
-</div>
+ 
+ 

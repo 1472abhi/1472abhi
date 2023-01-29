@@ -1,64 +1,68 @@
-<img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=1472abhi&style=flat-square&color=d43182"/></a>
-
-<h1 align="center">Hi there, I'm Abhishek Mahale<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Competitive Programmer, Web Developer</h1>
-<br>
-<img align="right" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" width="250">
-<h1>About Me</h1>
-
-+ I am a third year Student at MET institute of Engineering Nashik. 🏫
-+ I have good Knowledge in Web Develop.
-+ I do Competitive Programming as a regular practice. 💻
-
-
-<br>
-<br>
-<h1>Technical Skills 🛠</h1>
-
-<p align="center"> 
-  
- <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
- <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
- 
-  
+ <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
+<p>
+  <h1 align="center"><b>Hello there, I'm Abhishek Mahale <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></b></h1>
 </p>
 
-  
-
-
+<p align="center">
 <br>
-
-<h1 align="left">Connect with me 💬</h1>
-<div align="left">
- <a href="https://www.linkedin.com/in/abhishek-mahale-7ab394195/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/its.abhishek_m/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<br>
-<br>
-<h1 align="left" >Programming Profiles 👨‍💻</h1>
-  
-<a href="https://www.codechef.com/users/abhi1472"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt=Codechef style="margin-bottom: 5px;"></a>
- <a href="https://www.hackerrank.com/1472abhi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=Hackerrank style="margin-bottom: 5px;"></a>
-  
-<br>
-<br>
-
-
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1472abhi&amp&theme=jolly&title_color=blue" style="max-width:100%;">
-<br>
-  
-
-  
-  
+<a href="https://www.instagram.com/its.abhishek_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-mahale-7ab394195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:1472abhi@gmail.com?subject=Hello%20Abhi!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  
- 
+</p>
+
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+
+### I am a Computer Engineer
+-    I am a third year Student at MET institute of Engineering Nashik.
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/abhishek-mahale-7ab394195/)
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
+
+### Languages and Tools: 
+
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+
+<br>
+<br>
+<br>
+<br>
+
+  
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1472abhi&amp&theme=jolly&title_color=blue" style="max-width:100%;">
+
+</p>
+
+<br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1472abhi&show_icons=true&hide_border=true&theme=radical">
+</p>
+
+
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+#### Thank You-🙏🏼
+
+⭐️ From [1472abhi](https://github.com/1472abhi)

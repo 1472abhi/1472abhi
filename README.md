@@ -1,8 +1,10 @@
  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
+ 
+
 <p>
   <h1 align="center"><b>Hello there, I'm Abhishek Mahale <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></b></h1>
 </p>
-
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Competitive+Programming+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cybersecurity+%F0%9F%8C%90;WebDevelopment+%F0%9F%97%84%EF%B8%8F;" alt="Typing SVG" /></a></h3>
 <p align="center">
 <br>
 <a href="https://www.instagram.com/its.abhishek_m/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -22,9 +24,13 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch! [LinkedIn](https://www.linkedin.com/in/abhishek-mahale-7ab394195/)
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
+![](https://komarev.com/ghpvc/?username=1472abhi&style=plastic)
+![](https://img.shields.io/github/followers/1472abhi.svg?style=social&label=Follow&maxAge=2592000)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=plastic)
 <br>
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Languages and Tools: 
 
